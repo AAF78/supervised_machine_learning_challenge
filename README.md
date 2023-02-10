@@ -1,1 +1,3 @@
 # supervised_machine_learning_challenge
+
+## For this activity, I predicted that the Random Classifier Model would outperform the Logistic Regression Model since RFC iteratively improves its accuracy and accuracy is necessary in the lending industry. However, after training and testing each model, I found that both models had high fidelity and performed equally well. My recommendartion on a dataset of this type would be to use either but for efficiency's sake would simply train the LR model to predict lending risk outcomes rather than running both.
